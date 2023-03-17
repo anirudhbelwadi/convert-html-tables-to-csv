@@ -8,9 +8,9 @@
 <br>
 <code>env\Scripts\activate</code> (for Windows)
 
-<code>
-pip install -r requirements.txt
-</code>
+- Install dependencies using this command
+
+<code>pip install -r requirements.txt</code>
 
 - Run the application using the following command:
 
